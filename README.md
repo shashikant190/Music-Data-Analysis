@@ -1,4 +1,10 @@
-# SQL QUERY FOR MUSIC DATA ANALYSIS
+# My SQL Project
+
+This is a project that uses SQL to do Data Analysis of Music Data.
+
+## Language
+
+The language used in this project is SQL.
 
 <h2>
 Q 1. What are top 3 values of total invoice ?
