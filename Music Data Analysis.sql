@@ -1,3 +1,4 @@
+-- SQL QUERIES
 -- 1. What are top 3 values of total invoice ?
 
 SELECT total FROM invoice
