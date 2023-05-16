@@ -1,6 +1,6 @@
 # My SQL Project
 
-This is a project that uses SQL to do Data Analysis of Music Data.
+This is a project that uses SQL to do Data Analysis of Music Data...
 
 ## Language
 
